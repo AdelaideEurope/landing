@@ -1,0 +1,21 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.image-top {
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 150px;
+}
+
+.card {
+  text-shadow: : 1px 1px 3px rgba(0,0,0,0.2);
+  border-radius: 4px;
+  box-shadow: 0px 4px 16px rgba(0,0,0,0.2);
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+}
